@@ -1,0 +1,7 @@
+{
+  "name": " BankScan AI",
+  "description": "An advanced AI-powered bank statement OCR system that extracts structured transaction data from images and PDFs using Gemini 3 Flash.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
